@@ -1,5 +1,5 @@
 # Minecraft-Download
-This is a Minecraft v26.2 Download that is virus free. DISCLAIMER: It is not the best quality it only runs at best 60 FPS but it is otherwise nice especially if you are a student with a Chromebook wanting to play games
+This is a Minecraft v1.9 Download that is virus free. DISCLAIMER: It is not the best quality it only runs at best 60 FPS but it is otherwise nice especially if you are a student with a Chromebook wanting to play games
 This download is 100% virus free, don't believe me? Well go put this file through a virus scanner then come back to me
 
 
